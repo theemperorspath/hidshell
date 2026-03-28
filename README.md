@@ -252,9 +252,6 @@ hidshell/
 │                        # Simulates implant for dev/testing
 │                        # Run first, then open Thonny
 │
-├── docs/
-│   └── index.html       # Project documentation website
-│
 └── README.md            # You are here
 ```
 
